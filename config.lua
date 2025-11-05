@@ -628,7 +628,7 @@ Config.Animations = {
         Scenario = 'WORLD_HUMAN_BROOM',
     },
     {
-        Label = 'Coffe',
+        Label = 'Coffee',
         Category = 'Gestures',
         Type = 'Scenario',
         Scenario = 'WORLD_HUMAN_COFFEE_DRINK',
